@@ -1,4 +1,4 @@
-# Data-Careers-Insight-Dashboard
+# Data-Careers-Insight-Dashboard using Power BI
 An interactive analytics dashboard visualizing real-world survey data from 630 data professionals across multiple countries.
 
 ## 🎯 Project Overview
